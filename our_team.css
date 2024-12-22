@@ -1,0 +1,17 @@
+#team {
+    background-color: white;
+    text-align: left;
+    size: 100px;
+    height: 400px;
+    border-radius: 15px;
+    margin: auto;
+    padding-left: 15px;
+    padding-top: 50px;
+    max-width: 1500px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5)
+}
+#about{
+    font-weight: bold;font-size: xx-large;
+    
+}

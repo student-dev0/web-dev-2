@@ -1,0 +1,103 @@
+header {
+    /* border:2px dotted orangered; */
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+body {
+    background-color: rgb(156, 220, );
+}
+
+#flex {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+button {
+    padding: 10px;
+    background-color: #003366;
+    color: white;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: rgb(50, 122, 205);
+}
+
+section {
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-image: url('assets/abstract-mathematics-wireframe-digital-art-wallpaper-89f0080db1fa9d0b7697982f1091964d.jpg');
+
+}
+
+#welcome {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+Footer {
+    background-color: darkgray;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+#logo {
+    display:flex;
+    align-items: start;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+#intro {
+    color: azure;
+    text-align: center;
+}
+
+/* #start {
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+} */
+
+#Things {
+    padding-left: 20px;
+    color: aliceblue;
+}
+
+#duty::before {
+    content: '>>';
+    font-size: 1.2em;
+}
+#duty{
+    padding-left: 20px;
+    font-weight: 500;
+    
+}
+#button-container{
+    text-align: center;
+    margin-top: 20px;
+}
+#services{
+    padding-left: 20px;
+    color:aliceblue;
+}
+#contact{padding-bottom: 60px;
+    justify-content: center;
+
+}
+#email{
+    padding-bottom: 20px;
+}
